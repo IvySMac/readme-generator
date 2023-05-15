@@ -14,7 +14,7 @@ function askQuestions() {
 
 
 function main() {
-    console.log(questions);
+    // console.log(questions);
     askQuestions();
 }
 
