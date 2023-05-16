@@ -1,1 +1,1 @@
-"test""Readme Generator"
+{"projectName":"wow","description":"wowo","install":"wowo","usage":"wowow","contribution":"wowo","tests":"wowow","license":"wowo"}{"projectName":"dod","description":"dod","install":"dod","usage":"dod","contribution":"dod","tests":"dod","license":"dod"}

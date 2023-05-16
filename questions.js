@@ -28,8 +28,14 @@ const questions = [
         type: "input",
         message: "What are some tests that you've made for this app?",
         name: "tests"
+    },
+    {
+        type: "input",
+        message: "Which license did you use?",
+        name: "license"
     }
 ];
+
 
 module.exports = {
     questions

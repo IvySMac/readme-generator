@@ -1,18 +1,19 @@
-function generateMarkdown(answersFromInquirer) {
+function generateMarkdown(answers) {
     const template = `
-# ${answersFromInquirer.projectTitle}
+
+# ${answers.projectName}
 
 ## Description
 
-${answersFromInquirer.description}
+${answers.description}
 
 ## Installation
 
-${answersFromInquirer.install}
+${answers.install}
 
 ## Usage
 
-${answersFromInquirer.usage}
+${answers.usage}
 
     \`\`\`md
     ![alt text](assets/images/screenshot.png)
@@ -20,15 +21,11 @@ ${answersFromInquirer.usage}
 
 ## Credits
 
-${answersFromInquirer.contribution}
+${answers.contribution}
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+${answers.license}
 
 ## Badges
 
@@ -46,6 +43,10 @@ If you created an application or package and would like other developers to cont
 
 ## Tests
 
-${answersFromInquirer.tests}
+${answers.tests}
     `
 }
+
+module.exports = {
+    generateMarkdown
+};
