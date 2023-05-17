@@ -1,23 +1,23 @@
 function generateMarkdown(answers) {
-    const template = `
-
+    return `
 # ${answers.projectName}
 
 ## Description
 
 ${answers.description}
+---
 
 ## Installation
 
 ${answers.install}
 
-## Usage
+## _Usage_
 
 ${answers.usage}
 
-    \`\`\`md
-    ![alt text](assets/images/screenshot.png)
-    \`\`\`
+    
+![alt text](assets/images/screenshot.png)
+    
 
 ## Credits
 
