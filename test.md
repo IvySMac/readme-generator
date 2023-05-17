@@ -1,30 +1,29 @@
+# wow
+
+## __Description__
+
+wow
 
 
-# dod
+## __Installation__
 
-## Description
+wow
 
-dod
+## __Usage__
 
-## Installation
+wow
 
-dod
-
-## Usage
-
-dod
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    
+![alt text](assets/images/screenshot.png)
+    
 
 ## Credits
 
-dd
+
 
 ## License
 
-dod
+undefined
 
 ## Badges
 
@@ -38,9 +37,9 @@ If your project has a lot of features, list them here.
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+huh
 
 ## Tests
 
-dod
+wowo
     

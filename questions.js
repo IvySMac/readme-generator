@@ -21,18 +21,24 @@ const questions = [
     },
     {
         type: "input",
-        message: "Who all contributed to this project?",
-        name: "contribution"
+        message: "List all the credits for this project",
+        name: "credits"
     },
     {
         type: "input",
         message: "What are some tests that you've made for this app?",
         name: "tests"
     },
+    // {
+    //     type: "checkbox",
+    //     message: "Which license did you use?",
+    //     name: "license",
+    //     choices: ['MIT', 'GPLv2', 'Apache','GPLv3','None']
+    // },
     {
         type: "input",
-        message: "Which license did you use?",
-        name: "license"
+        message: "How could someone contribute to your project?",
+        name: "contribution"
     }
 ];
 
