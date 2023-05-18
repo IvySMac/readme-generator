@@ -3,38 +3,68 @@
 ## __Description__
 
 
-just a big pack of wolves
+a big pack of wolves
+
+
+## __Table of Contents__
+
+- [Installation](#installation)
+
+- [Usage](#usage)
+
+- [Credits](#credits)
+
+- [License](#license)
+
+- [Features](#features)
+
+- [How to Contribute](#howtocontribute)
+
+- [Tests](#tests)
+
+- [Questions](#questions)
+
+- [Credits](#credits)
 
 
 ## __Installation__
 
-you don't, its just wolves!
+you don't
 
 ## __Usage__
   
-![a white wolf howling on a rock with the woods behind it](wolf.jpg)
+![A wolf howling](wolf.jpg)
     
-howl at the moon
+you can't
 
-## License
+## __License__
 
  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
-## Features
+## __Features__
 
-sick scars and free piercings
+scars and free piercings
 
-## How to Contribute
+## __How to Contribute__
 
-come out to my shack in the middle of the woods. bring drinks its gonna be a long one
+BYOB
 
-## Tests
+## __Tests__
 
-trust me bro, it works
+none
 
-## Credits
+## __Questions__
 
-me and approx 500 wolves
+If you have any additional questions, feel free to reach out to me on GitHub
+or through my e-mail. 
+
+- <a href="https://github.com/IvySMac">GitHub</a>
+
+- <a href="mailto:ivy.mccurdy@yahoo.com">ivy.mccurdy@yahoo.com</a>
+
+## __Credits__
+
+none
 
     

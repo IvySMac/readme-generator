@@ -54,6 +54,16 @@ const questions = [
     },
     {
         type: "input",
+        message: "Input your GitHub URL",
+        name: "gitHub"
+    },
+    {
+        type: "input",
+        message: "Input your e-mail address",
+        name: "email"
+    },
+    {
+        type: "input",
         message: "List all the credits for this project",
         name: "credits"
     }
