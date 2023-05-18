@@ -1,4 +1,4 @@
-const { questions } = require("./questions");
+const { questions } = require("./utilities/questions");
 const inquirer = require("inquirer");
 const fs = require("fs");
 const { generateMarkdown } = require("./utilities/generateMarkdown");

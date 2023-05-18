@@ -19,7 +19,7 @@ ${answers.description}
 
 - [Features](#features)
 
-- [How to Contribute](#how to contribute)
+- [How to Contribute](#how-to-contribute)
 
 - [Tests](#tests)
 

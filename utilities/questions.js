@@ -1,4 +1,4 @@
-const licenses = require("./utilities/licenses");
+const licenses = require("./licenses");
 
 const questions = [
     {
