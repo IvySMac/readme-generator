@@ -1,10 +1,9 @@
-function generateMarkdown(answers) {
-    return `# __${answers.projectName}__
+# __wow__
 
 ## __Description__
 
 
-${answers.description}
+wow
 
 
 ## __Table of Contents__
@@ -30,45 +29,45 @@ ${answers.description}
 
 ## __Installation__
 
-${answers.install}
+wo
 
 
 ## __Usage__
   
 
-![${answers.altText}](${answers.screenshotUrl})
+![wo](wo)
     
 
-${answers.usage}
+ow
 
 
 ## __License__
 
 
- ${answers.license}
+ [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
 ## __Badges__
 
 
-${answers.languageBadges}
+![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white),![Coffeescript Badge](https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white),![Crystal Badge](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)
 
 
 ## __Features__
 
 
-${answers.features}
+did
 
 
 ## __How to Contribute__
 
 
-${answers.contribution}
+did
 
 ## __Tests__
 
 
-${answers.tests}
+wo
 
 
 ## __Questions__
@@ -77,20 +76,15 @@ ${answers.tests}
 If you have any additional questions, feel free to reach out to me on GitHub
 or through my e-mail. 
 
-- <a href="${answers.gitHub}">GitHub</a>
+- <a href="did">GitHub</a>
 
-- <a href="mailto:${answers.email}">${answers.email}</a>
+- <a href="mailto:did">did</a>
 
 
 ## __Credits__
 
 
-${answers.credits}
+di
 
 
-    `
-}
-
-module.exports = {
-    generateMarkdown
-};
+    

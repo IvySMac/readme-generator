@@ -8,7 +8,7 @@ function askQuestions() {
     inquirer.prompt(questions).then((answers) => {
         const template = generateMarkdown(answers);
 
-        fs.writeFile("README.md", template, "utf-8", function(err) {
+        fs.writeFile("READMEtest.md", template, "utf-8", function(err) {
             if (err) console.error(err);
         });
     });
