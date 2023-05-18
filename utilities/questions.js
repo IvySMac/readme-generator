@@ -1,3 +1,4 @@
+const languageBadges = require("./languageBadges");
 const licenses = require("./licenses");
 
 const questions = [
@@ -41,6 +42,12 @@ const questions = [
         message: "Which license did you use?",
         name: "license",
         choices: licenses
+    },
+    {
+        type: "checkbox",
+        message: "Choose language badge(s) for this project",
+        name: "languageBadges",
+        choices: languageBadges
     },
     {
         type: "input",

@@ -1,5 +1,5 @@
 function generateMarkdown(answers) {
-    return `# ${answers.projectName}
+    return `# __${answers.projectName}__
 
 ## __Description__
 
@@ -42,6 +42,10 @@ ${answers.usage}
 
  ${answers.license}
 
+
+## __Badges__
+
+${answers.languageBadges}
 
 ## __Features__
 
