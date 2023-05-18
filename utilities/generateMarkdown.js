@@ -32,34 +32,47 @@ ${answers.description}
 
 ${answers.install}
 
+
 ## __Usage__
   
+
 ![${answers.altText}](${answers.screenshotUrl})
     
+
 ${answers.usage}
 
+
 ## __License__
+
 
  ${answers.license}
 
 
 ## __Badges__
 
+
 ${answers.languageBadges}
+
 
 ## __Features__
 
+
 ${answers.features}
 
+
 ## __How to Contribute__
+
 
 ${answers.contribution}
 
 ## __Tests__
 
+
 ${answers.tests}
 
+
 ## __Questions__
+
 
 If you have any additional questions, feel free to reach out to me on GitHub
 or through my e-mail. 
@@ -71,7 +84,9 @@ or through my e-mail.
 
 ## __Credits__
 
+
 ${answers.credits}
+
 
     `
 }
