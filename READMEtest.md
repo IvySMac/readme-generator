@@ -1,9 +1,9 @@
-# __wow__
+# __Wolves__
 
 ## __Description__
 
 
-wow
+just a big pack of wolves straight to your door!
 
 
 ## __Table of Contents__
@@ -29,45 +29,45 @@ wow
 
 ## __Installation__
 
-wo
+give the biggest howl you got. 
 
 
 ## __Usage__
   
 
-![wo](wo)
+![a white wolf standing on a hill howling. there is a treeline behind them.](./assets/wolf.jpg)
     
 
-ow
+oh you just wait. they'll be there
 
 
 ## __License__
 
 
- [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ## __Badges__
 
 
-![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white),![Coffeescript Badge](https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white),![Crystal Badge](https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E),![JSON Badge](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 
 ## __Features__
 
 
-did
+free piercings and sick battle scars 
 
 
 ## __How to Contribute__
 
 
-did
+just howl!
 
 ## __Tests__
 
 
-wo
+a did a little bit of howling one night and now I have 500 wolves at my house
 
 
 ## __Questions__
@@ -76,15 +76,15 @@ wo
 If you have any additional questions, feel free to reach out to me on GitHub
 or through my e-mail. 
 
-- <a href="did">GitHub</a>
+- <a href="https://github.com/IvySMac">GitHub</a>
 
-- <a href="mailto:did">did</a>
+- <a href="mailto:ivy.mccurdy@yahoo.com">ivy.mccurdy@yahoo.com</a>
 
 
 ## __Credits__
 
 
-di
+me and approx 500 wolves
 
 
     

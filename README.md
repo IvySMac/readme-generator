@@ -7,7 +7,6 @@ be utilizing node and getting familiar with using it in the terminal. I'll also 
 ## Usage
 
 
-
 You can't have a GitHub project without a good README file! That's why this generator is the perfect tool for every programmer. 
 
 - To start it up, type in ' node app ' in the terminal
@@ -15,6 +14,8 @@ You can't have a GitHub project without a good README file! That's why this gene
 - Once all questions are answered, a README file will be created with all of your inputs
 - When you check the README, you'll find a Table of Contents with anchored links
 - You'll also see your screenshot image, a license badge, and list of coding language badges
+
+To view this project in action, click <a href="https://drive.google.com/file/d/105wlJyB942EJVKmgF7HhPzg_UsiP5goQ/view">here</a>!
 
 
 ## User Story
