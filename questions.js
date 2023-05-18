@@ -1,3 +1,5 @@
+const licenses = require("./utilities/licenses");
+
 const questions = [
     {
         type: "input",
@@ -21,24 +23,39 @@ const questions = [
     },
     {
         type: "input",
-        message: "List all the credits for this project",
-        name: "credits"
+        message: "Input URL of a screenshot for your project here",
+        name: "screenshotUrl"
+    },
+    {
+        type: "input",
+        message: "Input alt text for screenshot image",
+        name: "altText"
     },
     {
         type: "input",
         message: "What are some tests that you've made for this app?",
         name: "tests"
     },
-    // {
-    //     type: "checkbox",
-    //     message: "Which license did you use?",
-    //     name: "license",
-    //     choices: ['MIT', 'GPLv2', 'Apache','GPLv3','None']
-    // },
+    {
+        type: "list",
+        message: "Which license did you use?",
+        name: "license",
+        choices: licenses
+    },
+    {
+        type: "input",
+        message: "What are some key features of your app?",
+        name: "features"
+    },
     {
         type: "input",
         message: "How could someone contribute to your project?",
         name: "contribution"
+    },
+    {
+        type: "input",
+        message: "List all the credits for this project",
+        name: "credits"
     }
 ];
 

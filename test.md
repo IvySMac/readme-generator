@@ -1,45 +1,40 @@
-# wow
+# Wolves
 
 ## __Description__
 
-wow
+
+just a big pack of wolves
 
 
 ## __Installation__
 
-wow
+you don't, its just wolves!
 
 ## __Usage__
-
-wow
-
+  
+![a white wolf howling on a rock with the woods behind it](wolf.jpg)
     
-![alt text](assets/images/screenshot.png)
-    
-
-## Credits
-
-
+howl at the moon
 
 ## License
 
-undefined
+ [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
 ## Features
 
-If your project has a lot of features, list them here.
+sick scars and free piercings
 
 ## How to Contribute
 
-huh
+come out to my shack in the middle of the woods. bring drinks its gonna be a long one
 
 ## Tests
 
-wowo
+trust me bro, it works
+
+## Credits
+
+me and approx 500 wolves
+
     
